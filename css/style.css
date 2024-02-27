@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    width: 400px;
+    padding: 10px;
+}
+
+.main_content {
+    margin: 100px;
+}
+
+.first_task, .second_task, .third_task, .fourth_task, .fifth_task {
+    width: 550px;
+    margin-top: 50px;
+}
+
+.first_task p, .second_task p, .third_task p, .fourth_task p, .fifth_task p {
+    margin: 15px 0 15px 0;
+    font-size: 1.1em;
+}
